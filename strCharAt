@@ -1,0 +1,4 @@
+p.strCharAt = function (str, strIndex) {
+  if (strIndex > -1 && strIndex < str.length())
+    return str.charAt(strIndex);
+};
