@@ -1,0 +1,16 @@
+This was what I did to create a local branch and push it to my remote repos.
+
+#make new branch in local repos
+$git branch branchName
+#make remote branch
+$ git push origin branchName
+# change to branchName
+$ git checkout branchName
+# create text file for branchName then enter the code here
+$ vi branchName
+# add the file to the branch
+$ git add branchName
+# save the file in the local reops
+$ git commit -a
+# push the local branch into the remote branch
+$git push git@githug.com:tdao75/OSD600.git branchName
