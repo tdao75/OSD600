@@ -1,0 +1,3 @@
+p.strToLowerCase = function(str) {
+  return str.toLowerCase();
+  }
