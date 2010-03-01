@@ -13,4 +13,4 @@ $ git add branchName
 # save the file in the local reops
 $ git commit -a
 # push the local branch into the remote branch
-$git push git@githug.com:tdao75/OSD600.git branchName
+$git push git@githug.com:userID/branch.git branchName
