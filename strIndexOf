@@ -1,0 +1,7 @@
+p.strIndexOf = function (str, subStr, strIndex) {
+  int p1 = str.indexOf(subStr, strIndex);
+  if (p1== -1)
+    return -1;
+  else
+    return p1;
+};
