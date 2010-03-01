@@ -1,0 +1,3 @@
+p.strToUpperCase = function(str) {
+  return str.toUpperCase();
+  }
