@@ -1,0 +1,3 @@
+p.strLength = function (str) {
+  return str.length();
+};
