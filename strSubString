@@ -1,0 +1,9 @@
+p.strSubString ( str, beginIndex, endIndex) {
+  var subStr;
+  if (endIndex > 0) {
+    subStr = str.substring(beginIndex, endIndex);
+  else
+    subStr = str.substring(beginIndex);
+
+  return subStr;
+  };
